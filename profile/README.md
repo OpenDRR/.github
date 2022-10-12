@@ -4,6 +4,8 @@ Looking for data? Head over to [Downloads](https://opendrr.github.io/downloads/e
 
 Have questions? Submit them to [Discussions](https://github.com/OpenDRR/opendrr/discussions)
 
+If you are looking for our end-user interface or any associated documentation, please visit www.RiskProfiler.ca.  
+
 ---
 
 ### Bienvenue dans l'organisation ouverte de réduction des risques de catastrophes sur GitHub
@@ -11,6 +13,8 @@ Have questions? Submit them to [Discussions](https://github.com/OpenDRR/opendrr/
 Vous cherchez des données ? Rendez-vous sur [Téléchargements](https://opendrr.github.io/downloads/fr/)
 
 Vous avez des questions ? Soumettez-les à [Discussions](https://github.com/OpenDRR/opendrr/discussions)
+
+Si vous recherchez notre interface utilisateur final ou toute documentation associée, veuillez visiter le site www.RiskProfiler.ca.
 
 <!--
 
